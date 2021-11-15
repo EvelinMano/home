@@ -1,5 +1,27 @@
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-*.mkv filter=lfs diff=lfs merge=lfs -text
-*.mp3 filter=lfs diff=lfs merge=lfs -text
-*.wfp filter=lfs diff=lfs merge=lfs -text
-*.psd filter=lfs diff=lfs merge=lfs -text
+song.mp4 filter=lfs diff=lfs merge=lfs -text
+
+
+<section class="header">
+		<div class="container">
+		<nav class="navbar navbar-expand-sm navbar-white bg-white " >
+     <div class="container">
+            <a class="navbar-brand" href="#home">
+         
+      <img src="./assets/css/logo.png" width="190"></a>
+        <button class="navbar-toggler navbar-light"  data-toggle="collapse" data-target="#botcollapse" aria-label="toggle navigation">
+    <span class="navbar-toggler-icon "></span>
+  </button>
+  <div class="collapse navbar-collapse" id="botcollapse">
+  <ul class="navbar-nav ml-auto bg-danger">
+                <li class="nav-item active">
+                <a class="nav-link  active text-dark" href="#about"><bold>Home</bold></a>
+                </li>
+                <li class="nav-item ">
+                <a class="nav-link text-dark" href="https://evelinmano.github.io/contact/"><bold>Contact Us</bold></a>
+                </li>               
+            </ul>            
+        </div>
+    </div>
+</nav>
+</div>
+	</section>

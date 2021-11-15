@@ -69,10 +69,45 @@ h4{
 	}
 }
 @media(max-width:570px){
-	.registration a{
-		padding:10px;
-		width:450px;
+	.registration a{	
+		
 		height:50px;
-		font-size: 13px;
+		font-size: 10px;
 	}
+
+
+.cont video{
+	width:380px;
 }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
