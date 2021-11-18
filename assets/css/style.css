@@ -84,12 +84,17 @@ h4{
 
 }
 
-@media(min-width:1024px){
+/*@media(min-width:1024px){
 	.cont video{
 		margin-right: 10%;
 	}
+}*/
 
-
+@media(max-width:1024px){
+	.cont video{
+		justify-content: center ! important;
+	}
+}
 
 
 
